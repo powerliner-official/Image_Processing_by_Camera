@@ -2,5 +2,7 @@
 In this project, the system's camera is connected to the PyCharm software using Python code. This project is intended for engineers who have participated in the comprehensive control course offered by Powerliner; it is provided to you in its entirety and as an open-source resource.
 # پردازش تصویر توسط دوربین با پایتون
 در این پروژه، دوربین سیستم با استفاده از کد پایتون به نرم‌افزار PyCharm متصل می‌شود. این پروژه برای مهندسانی در نظر گرفته شده است که در دوره جامع کنترلِ ارائه‌شده توسط Powerliner شرکت کرده‌اند؛ این پروژه به‌صورت کامل و به‌عنوان یک منبع متن‌باز (Open-source) در اختیار شما قرار می‌گیرد.
+# نصب کتابخانه OpenCV 
+برای اجرای این پروژه نیاز است که کتابخانه openCV نصب شده باشد که این کار روی فایل پروژه توسط بنده انجام شده است.اما درصورت بروز هرگونه مشکل و ارور مبتنی بر عدم نصب کتابخانه می‌توانید از طریق دستور pip install opencv-python این کتابخانه را به پروژه ی خود اضافه و نصب کنید. 
 # work with image processing and (openCV) in python
 این بخشی از آموزش اصلی میباشد و به زودی در دسترس قرار خواهد گرفت
